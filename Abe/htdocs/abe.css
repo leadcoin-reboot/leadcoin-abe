@@ -1,11 +1,9 @@
-td, th {
-    font-family: Verdana, Helvetica, sans-serif;
-    margin: 0;
-    padding: 0 1ex;
+body {
+  margin: 20px;
 }
-td {
-    border-width: 1px;
-    border-style: solid;
+input {
+  padding: 0.88889rem 1.77778rem 0.94444rem;
+  font-size: 0.88889rem;
 }
 table {
     border-spacing: 0;

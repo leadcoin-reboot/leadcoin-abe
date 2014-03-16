@@ -76,6 +76,8 @@ CHAIN_CONFIG = [
      "code3":"WDC", "address_version":"\x49", "magic":"\xfb\xc0\xb6\xdb"},
     {"chain":"NovaCoin"},
     {"chain":"CryptoCash"},
+    {"chain":"Leadcoin",
+     "code3":"LDC", "address_version":"\x30", "magic":"\xfb\xc0\xb6\xdb"},
     #{"chain":"",
     # "code3":"", "address_version":"\x", "magic":""},
     ]
